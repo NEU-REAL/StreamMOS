@@ -5,3 +5,7 @@ This is the official code release of "StreamMOS: Streaming Moving Object Segment
 Coming soon...
 
 ## Challenging Scenes
+
+![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/SemanticKITTI.pdf)
+
+![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/Sipailou Campus.pdf)
