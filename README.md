@@ -6,4 +6,6 @@ Coming soon...
 
 ## Challenging Scenes
 
+![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/SemanticKITTI.png)
 
+![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/Sipailou%20Campus.png)
