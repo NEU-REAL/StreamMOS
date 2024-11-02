@@ -6,5 +6,4 @@ Coming soon...
 
 ## Challenging Scenes
 
-![](https://github.com/LeoZhiheng/MMF-Tracker/blob/main/Picture/Quantitative_results.png)
 
