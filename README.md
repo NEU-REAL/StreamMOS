@@ -8,4 +8,4 @@ Coming soon...
 
 ![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/SemanticKITTI.png)
 
-![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/Sipailou%20Campus.png)
+![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/Sipailou_Campus.png)
