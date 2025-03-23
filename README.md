@@ -22,3 +22,19 @@ The overall architecture of StreamMOS. The overall architecture of StreamMOS. (a
 <!--## Challenging Scenes
 ![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/SemanticKITTI.png)
 ![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/Sipailou_Campus.png)-->
+
+## Acknowledgement
+
+This repo is based on [CPGNet](https://github.com/GangZhang842/CPGNet) and [SMVF](https://github.com/GangZhang842/SMVF), we are very grateful for their excellent work.                     
+
+## Citation
+
+If you find our repository useful, please consider citing us as
+```
+@article{li2025cao,
+  title={CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points},
+  author={Li, Zhiheng and Cui, Yubo and Huang, Ningyuan and Pang, Chenglin and Fang, Zheng},
+  journal={arXiv preprint arXiv:2503.01438},
+  year={2025}
+}
+```
