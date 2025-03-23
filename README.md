@@ -15,7 +15,7 @@ Extensive experiments validate that our algorithm gets competitive performance o
 
 ## Overview
 <p align="center">
-    <img src="images/method.png" width="100%">
+    <img src="figure/method.png" width="100%">
 </p>
 The overall architecture of StreamMOS. The overall architecture of StreamMOS. (a) Feature encoder adopts a point-wise encoder to extract point features and project them into BEV. Then, the multi-view encoder with cascaded structure and asymmetric convolution is applied to encode motion features from different views. (b) Temporal fusion utilizes an attention module to propagate memory feature to the current inference. (c) Segmentation decoder with parameter-free upsampling exploits multi-scale features to predict class labels. (d) Voting mechanism leverages memory predictions to optimize the motion state of each 3D voxel and instance.
 
