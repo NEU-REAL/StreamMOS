@@ -78,6 +78,18 @@ pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https
 pip install -r requirements.txt
 ```
 
+### 3. Model Training
+Running the following command to start the first stage of training.
+```
+python -m torch.distributed.launch --nproc_per_node=2 train_StreamMOS.py --config config/StreamMOS.py
+```
+
+### 4. Model Evaluation
+Running the following command to start evaluation.
+```
+python3 -m torch.distributed.launch --nproc_per_node=2 val_StreamMOS.py --config config/StreamMOS.py
+```
+
 ## Acknowledgement
 
 This repo is based on [CPGNet](https://github.com/GangZhang842/CPGNet) and [SMVF](https://github.com/GangZhang842/SMVF), we are very grateful for their excellent work.                     
