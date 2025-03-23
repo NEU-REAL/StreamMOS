@@ -23,6 +23,10 @@ The overall architecture of StreamMOS. The overall architecture of StreamMOS. (a
 ![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/SemanticKITTI.png)
 ![](https://github.com/NEU-REAL/StreamMOS/blob/main/picture/Sipailou_Campus.png)-->
 
+## Quickstart
+
+### 0. Data Download
+
 ## Acknowledgement
 
 This repo is based on [CPGNet](https://github.com/GangZhang842/CPGNet) and [SMVF](https://github.com/GangZhang842/SMVF), we are very grateful for their excellent work.                     
