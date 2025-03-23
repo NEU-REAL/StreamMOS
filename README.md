@@ -31,10 +31,14 @@ This repo is based on [CPGNet](https://github.com/GangZhang842/CPGNet) and [SMVF
 
 If you find our repository useful, please consider citing us as
 ```
-@article{li2025cao,
-  title={CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points},
-  author={Li, Zhiheng and Cui, Yubo and Huang, Ningyuan and Pang, Chenglin and Fang, Zheng},
-  journal={arXiv preprint arXiv:2503.01438},
-  year={2025}
-}
+@ARTICLE{10804055,
+  author={Li, Zhiheng and Cui, Yubo and Zhong, Jiexi and Fang, Zheng},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={StreamMOS: Streaming Moving Object Segmentation With Multi-View Perception and Dual-Span Memory}, 
+  year={2025},
+  volume={10},
+  number={2},
+  pages={1146-1153},
+  keywords={Laser radar;Three-dimensional displays;Motion segmentation;Feature extraction;Point cloud compression;Object segmentation;Heuristic algorithms;Convolution;Dynamics;Decoding;Computer vision for transportation;deep learning methods;semantic scene understanding},
+  doi={10.1109/LRA.2024.3518844}}
 ```
