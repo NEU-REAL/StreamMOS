@@ -44,7 +44,7 @@ Download [SemanticKITTI](http://www.semantic-kitti.org/dataset.html#overview) da
         |       └── ...
         ├── 08 # for validation
 ```
-Download the object bank on the SemanticKITTI to the folder `object_bank_semkitti`. The data structure is as follows:   
+Download the [object bank](https://drive.google.com/file/d/1QdSpkMLixvKQL6QPircbDI_0-GlGwsdj/view?usp=sharing) of SemanticKITTI to the folder `object_bank_semkitti`. The data structure is as follows:   
 ```
 ├──object_bank_semkitti
     ├── bicycle
