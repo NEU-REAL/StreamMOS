@@ -58,6 +58,26 @@ Download the [object bank](https://drive.google.com/file/d/1QdSpkMLixvKQL6QPircb
     ├── truck
 ```
 
+
+### 1. Environment Setup
+Our code is implemented on Python 3.8 with Pytorch 2.1.0 and CUDA 11.8. To reproduce and use our environment, you can use the following command:
+
+a. Clone the repository to local
+```
+git clone https://github.com/NEU-REAL/StreamMOS.git
+cd StreamMOS
+```               
+b. Set up a new environment with Anaconda
+```
+conda create -n stream python=3.8
+conda activate stream
+```                       
+c. Install common dependices and pytorch
+```
+pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu118
+pip install -r requirements.txt
+```
+
 ## Acknowledgement
 
 This repo is based on [CPGNet](https://github.com/GangZhang842/CPGNet) and [SMVF](https://github.com/GangZhang842/SMVF), we are very grateful for their excellent work.                     
