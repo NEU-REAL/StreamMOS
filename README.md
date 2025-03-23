@@ -29,21 +29,20 @@ Moving object segmentation based on LiDAR is a crucial and challenging task for 
 ### 0. Data Download
 Download [SemanticKITTI](http://www.semantic-kitti.org/dataset.html#overview) dataset to the folder `SemanticKITTI`. The data structure is as follows:        
 ```
-./
-├─StreamMOS 
-├── SemanticKITTI
-└─── dataset
-    ├──sequences
-        ├── 00         
-        │   ├── velodyne
-        |   |	├── 000000.bin
-        |   |	├── 000001.bin
-        |   |	└── ...
-        │   └── labels 
-        |       ├── 000000.label
-        |       ├── 000001.label
-        |       └── ...
-        ├── 08 # for validation
+├──StreamMOS 
+ ├──SemanticKITTI
+  ├──dataset
+   ├──sequences
+    ├── 00         
+    │   ├── velodyne
+    |   |	├── 000000.bin
+    |   |	├── 000001.bin
+    |   |	└── ...
+    │   └── labels 
+    |       ├── 000000.label
+    |       ├── 000001.label
+    |       └── ...
+    ├── 08 # for validation
 ```
 
 
